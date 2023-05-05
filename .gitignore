@@ -3,3 +3,8 @@
 ################################################################################
 
 /RChartClient/.vs/RChartClient
+/RChartServer/.vs/RChartServer
+/RChartServer/RChartServer/bin/
+/RChartClient/RChartClient/bin/
+/RChartServer/RChartServer/obj/
+/RChartClient/RChartClient/obj/
